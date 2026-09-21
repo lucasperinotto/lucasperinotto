@@ -1,16 +1,16 @@
-## Hi there 👋
+# Perfil profesional:
+Mi nombre es Lucas y soy Técnico en Programación. 
+Actualmente estoy buscando oportunidades laborales como desarrollador, con especial interés en Backend Development.
 
-<!--
-**lucasperinotto/lucasperinotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Habilidades técnicas:
+Backend: JavaScript, Java, C#, Node.js, Express, JWT
+Bases de datos: MongoDB, MySQL
+Herramientas: Git, GitHub
 
-Here are some ideas to get you started:
+# Idiomas:
+Español — Nativo
+Inglés — B2 Upper Intermediate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contacto:
+Email: lucas.perinotto@gmail.com
+LinkedIn: [@lucasperinotto](https://www.linkedin.com/in/lucasperinotto/)
