@@ -3,9 +3,10 @@
 - Actualmente estoy buscando oportunidades laborales como desarrollador, con especial interés en Backend Development.
 
 ### Habilidades técnicas:
-- Backend: JavaScript, Java, C#, Node.js, Express, JWT
-- Bases de datos: MongoDB, MySQL
-- Herramientas: Git, GitHub
+- Lenguajes: JavaScript, Java, C#
+- Backend: Node.js, Express.js, Mongoose, APIs REST, JWT
+- Bases de datos: MySQL, MongoDB
+- Herramientas: Git, GitHub, Scrum
 
 ### Idiomas:
 - Español — Nativo
