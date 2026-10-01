@@ -10,7 +10,7 @@
 
 ### Idiomas:
 - Español — Nativo
-- Inglés — B2 Upper Intermediate
+- Inglés — [C2 Proficient](https://cert.efset.org/en/4o9aYQ)
 
 ### Contacto:
 - Email: lucas.perinotto@gmail.com
